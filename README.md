@@ -1,17 +1,7 @@
 Resumo do projeto:
 
-🔨 Funcionalidades do projeto:
+🔨 Funcionalidades do projeto:O objetivo do projeto e ser uma calculadora comum em python onde irar subtrair,multiplicar,dividir e somar
 
-Funcionalidade 1:
+✔️ Técnicas e tecnologias utilizadas:Python 
 
-Funcionalidade 2:
 
-Funcionalidade 3:
-
-Funcionalidade 4:
-
-Funcionalidade 5:
-
-✔️ Técnicas e tecnologias utilizadas:
-
-📁 Acesso ao projeto Você pode acessar os arquivos do projeto clicando aqui.
